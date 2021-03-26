@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+xR/NslhSVvMWm1qODujYZvpMpGGeQtp08fUUWhH8MZ0iMpc1JStBFnBI3rEdkbr6Zkgy75WYb1rK9jFxUH9pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\dotnet-pluralsight\\demoform3\\demoform3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

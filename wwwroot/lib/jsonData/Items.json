@@ -1,0 +1,24 @@
+{
+  "items" : [
+    {
+      "itemId" : 1001,
+      "itemDescription" : "A cloth bag",
+      "itemClass": "B"
+    },
+    {
+      "itemId": 1002,
+      "itemDescription": "A dirt bag",
+      "itemClass": "A"
+    },
+    {
+      "itemId" : 1003,
+      "itemDescription" : "A plastic bag",
+      "itemClass": "D"
+    },
+    {
+      "itemId" : 1004,
+      "itemDescription" : "A jute bag",
+      "itemClass": "C"
+    }
+  ]
+}

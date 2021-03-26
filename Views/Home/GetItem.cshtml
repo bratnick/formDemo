@@ -1,0 +1,17 @@
+﻿@model demoform3.Models.Item; 
+
+<div class="container">
+    <h3 class="display-4">Get the Item</h3>
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="itemId"></label>
+            <input asp-for="itemId" class="form-control"/>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Get Item" class="btn btn-primary"/>
+        </div>
+    </form>
+    <div>
+        @ViewBag.Message
+    </div>
+</div>
